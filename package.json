@@ -1,6 +1,6 @@
 {
   "name": "@eliottoblinger/vinted",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple npm package to interact with Vinted.",
   "repository": {
     "type": "git",
@@ -9,6 +9,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "vinted",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "bot",
+    "api"
+  ],
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
