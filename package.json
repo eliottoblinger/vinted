@@ -1,6 +1,6 @@
 {
   "name": "@eliottoblinger/vinted",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple npm package to interact with Vinted.",
   "repository": {
     "type": "git",
