@@ -1,6 +1,4 @@
-import {Vinted} from "../src/Vinted";
-import {TVintedBrand, TVintedOptions, TVintedResult} from "../src/types";
-import {VintedSearch} from "../src/VintedSearch";
+import {Vinted, TVintedBrand, TVintedOptions, TVintedResult, VintedSearch} from "../src";
 
 export const searchByBrand = async(text: string, brand: string): Promise<TVintedResult[]> => {
   const vinted: Vinted = new Vinted();
